@@ -1,4 +1,5 @@
 # AtliQ_Hospitality_Analysis_Power_BI
+Tools used: Power BI, PowerPoint
 
 ## Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -23,7 +24,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![image](https://github.com/WalterEdwardd/AtliQ_Hospitality_Analysis/assets/128374617/f3fb3d90-49f4-4cd3-89ef-d8b47be9a909)
 ![image](https://github.com/WalterEdwardd/AtliQ_Hospitality_Analysis/assets/128374617/b1d0b11e-8611-4365-867d-7e13d11c00b5)
 
-## Some Major Insights
+## Insights and Key Findings
 ![image](https://github.com/WalterEdwardd/AtliQ_Hospitality_Analysis/assets/128374617/14fc4be9-3d33-49db-998b-b688b7ac7aed)
 ![image](https://github.com/WalterEdwardd/AtliQ_Hospitality_Analysis/assets/128374617/722a47a3-bdd8-4bde-94d4-a696ebf2f2e9)
 ![image](https://github.com/WalterEdwardd/AtliQ_Hospitality_Analysis/assets/128374617/dcccbe45-bcc5-41b2-94c7-63a024ead2b7)
